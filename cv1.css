@@ -1,0 +1,30 @@
+.conteneur {
+    width: 500px;
+    margin: 50px auto;
+    
+}
+.premiere img {
+    width: 150px;
+    float: left;
+    border-radius: 49%;
+    margin: 10px;
+}
+.premiere ul {
+    float: left;
+    list-style-type: none;
+}
+h1, h2 {
+    text-align: center;
+    color: midnightblue;
+}
+p {
+    margin: 0px;
+}
+hr {
+    border-color: blue;
+}
+.deuxieme {
+    margin: 30px;
+}
+
+    
